@@ -1,0 +1,8 @@
+{
+  "name": "AgriSense AI — Smart Agricultural Decision Simulator",
+  "description": "An AI/ML agricultural decision-support system and what-if simulator to evaluate crop yields, costs, revenues, profits, and risk scores under uncertain environmental and economic conditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
